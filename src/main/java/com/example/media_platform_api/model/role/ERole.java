@@ -1,6 +1,7 @@
-package com.example.media_platform_api.model;
+package com.example.media_platform_api.model.role;
 
 public enum ERole {
-    ROLE_USER,
-    ROLE_ADMIN
+    ADMIN,
+    USER,
+    MODERATOR
 }

@@ -1,4 +1,4 @@
-package com.example.media_platform_api.seed;
+package com.example.media_platform_api.data;
 
 import com.example.media_platform_api.model.*;
 import com.example.media_platform_api.repository.*;
